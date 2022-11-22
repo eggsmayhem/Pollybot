@@ -40,8 +40,6 @@ export default function App() {
   return (
     <div>
       <Image img = {hunterImg}/>
-      <Audioplayer/>
-      <Conversation/>
       <Textspace/>
     </div>
   )
